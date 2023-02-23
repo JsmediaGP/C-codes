@@ -1,0 +1,15 @@
+C:\Users\H4CK3R\source\repos\factorial\factorial\bin\Debug\net6.0\factorial.exe
+C:\Users\H4CK3R\source\repos\factorial\factorial\bin\Debug\net6.0\factorial.deps.json
+C:\Users\H4CK3R\source\repos\factorial\factorial\bin\Debug\net6.0\factorial.runtimeconfig.json
+C:\Users\H4CK3R\source\repos\factorial\factorial\bin\Debug\net6.0\factorial.dll
+C:\Users\H4CK3R\source\repos\factorial\factorial\bin\Debug\net6.0\factorial.pdb
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.csproj.AssemblyReference.cache
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.AssemblyInfoInputs.cache
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.AssemblyInfo.cs
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.csproj.CoreCompileInputs.cache
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.dll
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\refint\factorial.dll
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.pdb
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\factorial.genruntimeconfig.cache
+C:\Users\H4CK3R\source\repos\factorial\factorial\obj\Debug\net6.0\ref\factorial.dll
